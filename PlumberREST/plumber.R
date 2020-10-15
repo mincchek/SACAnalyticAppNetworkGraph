@@ -22,7 +22,7 @@ cors <- function(req, res) {
 #* @serializer unboxedJSON
 function() {
   tryCatch({
-    data <- read.csv("graph.csv")
+    data <- read.csv("data.csv")
     dataset <- sqldf("SELECT * FROM data")
     totalrow = nrow(dataset)
     print(totalrow)
