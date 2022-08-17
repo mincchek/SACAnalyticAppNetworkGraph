@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-networkgraphforcebased",
-      "url": "http://localhost/SAC/sacnetworkgraphforcebased/forcebased.js",
+      "url": "https://github.com/mincchek/SACAnalyticApp/forcebased.json",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-networkgraphforcebased-aps",
-      "url": "http://localhost/SAC/sacnetworkgraphforcebased/aps_forcebased.js",
+      "url": "https://github.com/mincchek/SACAnalyticApp/forcebased.json",
       "integrity": "",
       "ignoreIntegrity": true
     }
